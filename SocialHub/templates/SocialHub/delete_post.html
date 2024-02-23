@@ -1,0 +1,7 @@
+<h2>Delete Post</h2>
+<p style="color: red;"> {{ error }} </p>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Delete Post</button>
+</form>

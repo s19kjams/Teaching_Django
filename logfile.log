@@ -1,0 +1,104 @@
+2024-02-20 22:03:08,984 - INFO - views - Profile with username new_user at date 2024-02-20 22:03:08.984762+00:00 just been created!
+2024-02-20 22:10:43,134 - INFO - views - Username with id 3 has just unfollowed username kiavash
+2024-02-20 22:10:44,342 - INFO - views - Username with id 3 has just followed username kiavash
+2024-02-20 22:11:46,023 - INFO - views - Username with id 3 has just unliked post with id 2
+2024-02-20 22:11:46,941 - INFO - views - Username with id 3 has just liked post with id 2
+2024-02-20 22:13:01,782 - INFO - views - Username with id 3 has just commented for post with id 2
+2024-02-20 22:13:29,231 - INFO - views - Username with id 3 has just deleted his comment for comment with id None
+2024-02-22 00:25:47,601 - INFO - views - Profile with username testuser3 has just been created!
+2024-02-22 00:25:48,024 - INFO - views - Post None deleted successfully
+2024-02-22 00:25:48,433 - INFO - views - Username with id 35 has just followed username testuser2
+2024-02-22 00:25:48,436 - INFO - views - Username with id 35 has just unfollowed username testuser2
+2024-02-22 00:45:20,640 - INFO - views - Post None deleted successfully
+2024-02-22 00:45:21,039 - INFO - views - Username with id 47 has just followed username testuser2
+2024-02-22 00:45:21,042 - INFO - views - Username with id 47 has just unfollowed username testuser2
+2024-02-22 00:46:02,091 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 00:46:02,499 - INFO - views - Post None deleted successfully
+2024-02-22 00:46:02,930 - INFO - views - Username with id 56 has just followed username testuser2
+2024-02-22 00:46:02,933 - INFO - views - Username with id 56 has just unfollowed username testuser2
+2024-02-22 00:47:32,203 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 00:47:32,610 - INFO - views - Post None deleted successfully
+2024-02-22 00:47:33,108 - INFO - views - Username with id 65 has just followed username testuser2
+2024-02-22 00:47:33,111 - INFO - views - Username with id 65 has just unfollowed username testuser2
+2024-02-22 00:48:10,040 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 00:48:10,418 - INFO - views - Post None deleted successfully
+2024-02-22 00:48:10,788 - INFO - views - Username with id 74 has just followed username testuser2
+2024-02-22 00:48:10,791 - INFO - views - Username with id 74 has just unfollowed username testuser2
+2024-02-22 00:49:34,922 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 00:49:35,336 - INFO - views - Post None deleted successfully
+2024-02-22 00:49:35,765 - INFO - views - Username with id 83 has just followed username testuser2
+2024-02-22 00:49:35,768 - INFO - views - Username with id 83 has just unfollowed username testuser2
+2024-02-22 00:50:31,538 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 00:50:31,947 - INFO - views - Post None deleted successfully
+2024-02-22 00:50:32,374 - INFO - views - Username with id 92 has just followed username testuser2
+2024-02-22 00:50:32,376 - INFO - views - Username with id 92 has just unfollowed username testuser2
+2024-02-22 00:55:36,182 - INFO - views - Profile with username testuser3 has just been created!
+2024-02-22 00:55:36,571 - INFO - views - Post None deleted successfully
+2024-02-22 00:55:36,949 - INFO - views - Username with id 101 has just followed username testuser2
+2024-02-22 00:55:36,951 - INFO - views - Username with id 101 has just unfollowed username testuser2
+2024-02-22 00:57:16,100 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 00:57:16,503 - INFO - views - Post 86 deleted successfully
+2024-02-22 00:57:16,927 - INFO - views - Username with id 134 has just followed username testuser2
+2024-02-22 00:57:16,929 - INFO - views - Username with id 134 has just unfollowed username testuser2
+2024-02-22 01:00:49,947 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:00:50,375 - INFO - views - Post 90 deleted successfully
+2024-02-22 01:00:50,803 - INFO - views - Username with id 143 has just followed username testuser2
+2024-02-22 01:00:50,807 - INFO - views - Username with id 143 has just unfollowed username testuser2
+2024-02-22 01:02:10,228 - INFO - views - Profile with username testuser3 has just been created!
+2024-02-22 01:02:10,639 - INFO - views - Post 94 deleted successfully
+2024-02-22 01:02:11,073 - INFO - views - Username with id 152 has just followed username testuser2
+2024-02-22 01:02:11,075 - INFO - views - Username with id 152 has just unfollowed username testuser2
+2024-02-22 01:07:01,156 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:07:01,593 - INFO - views - Post 98 deleted successfully
+2024-02-22 01:07:02,014 - INFO - views - Username with id 161 has just followed username testuser2
+2024-02-22 01:07:02,018 - INFO - views - Username with id 161 has just unfollowed username testuser2
+2024-02-22 01:07:49,088 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:07:49,591 - INFO - views - Post 102 deleted successfully
+2024-02-22 01:07:50,081 - INFO - views - Username with id 170 has just followed username testuser2
+2024-02-22 01:07:50,085 - INFO - views - Username with id 170 has just unfollowed username testuser2
+2024-02-22 01:08:59,443 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:08:59,948 - INFO - views - Post 106 deleted successfully
+2024-02-22 01:09:00,438 - INFO - views - Username with id 179 has just followed username testuser2
+2024-02-22 01:09:00,441 - INFO - views - Username with id 179 has just unfollowed username testuser2
+2024-02-22 01:09:39,247 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:09:39,630 - INFO - views - Post 110 deleted successfully
+2024-02-22 01:09:40,013 - INFO - views - Username with id 188 has just followed username testuser2
+2024-02-22 01:09:40,016 - INFO - views - Username with id 188 has just unfollowed username testuser2
+2024-02-22 01:11:09,872 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:11:10,256 - INFO - views - Post 114 deleted successfully
+2024-02-22 01:11:10,627 - INFO - views - Username with id 197 has just followed username testuser2
+2024-02-22 01:11:10,629 - INFO - views - Username with id 197 has just unfollowed username testuser2
+2024-02-22 01:12:40,295 - ERROR - views - duplicate key value violates unique constraint "auth_user_username_key"
+DETAIL:  Key (username)=(testuser3) already exists.
+
+2024-02-22 01:12:40,448 - INFO - views - Post 117 deleted successfully
+2024-02-22 01:12:40,641 - INFO - views - Username with id 201 has just followed username testuser2
+2024-02-22 01:12:40,645 - INFO - views - Username with id 201 has just unfollowed username testuser2
+2024-02-22 01:18:05,892 - INFO - views - Profile with username testuser3 has just been created!
+2024-02-22 01:18:06,474 - INFO - views - Post 120 deleted successfully
+2024-02-22 01:18:07,082 - INFO - views - Username with id 209 has just followed username testuser2
+2024-02-22 01:18:07,086 - INFO - views - Username with id 209 has just unfollowed username testuser2

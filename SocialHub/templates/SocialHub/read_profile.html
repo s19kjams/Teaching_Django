@@ -1,0 +1,19 @@
+<h1>Profile Details</h1>
+{% csrf_token %}
+<body>
+    <h2>Profile Content</h2>
+    <p>Username: {{profile.user.username}}</p>
+    <p>First name: {{profile.user.first_name}}</p>
+    <p>Last name: {{profile.user.last_name}}</p>
+
+
+    <p>Followers: {{followers}}</p>
+    <p>Followings: {{followings}}</p>
+
+    <form action="{% url 'follow_unfollow_user' profile.user.username %}" method="post">
+        {% csrf_token %}
+        <button type="submit">{{follow_unfollow_button}}</button>
+    </form>
+
+</body>
+

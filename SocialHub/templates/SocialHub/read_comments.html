@@ -1,0 +1,15 @@
+<h2>Comments of the post number {{ post_number }} which was published by {{ username }} </h2>
+{% csrf_token %}
+
+{% for comment in comments %}
+    <p> id: {{comment.id}}</p>
+    <p> content: {{comment.content}}</p>
+
+    <form action="{% url 'delete_comment' comment.id %}" method="post" >
+        {% csrf_token %}
+
+        <button type="submit">Delete Comment</button>
+    </form>
+
+    <p> ------------------------------- </p>
+{% endfor %}
